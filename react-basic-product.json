@@ -1,0 +1,49 @@
+[{
+            "id": 1,
+            "name": "Apple",
+            "price": 5,
+            "image": "apple.png",
+            "description": "50 grams of fresh apples, one apple a day keeps the doctor away"
+        },
+
+        {
+            "id": 2,
+            "name": "Orange",
+            "price": 3,
+            "image": "orange.jpg",
+            "description": "Fresh orange 50 grams, sweet and delicious"
+        },
+
+        {
+            "id": 3,
+            "name": "Mango",
+            "price": 4,
+            "image": "mango.jpg",
+            "description": "500 grams of fresh mango, suitable for desserts"
+        },
+
+        {
+            "id": 4,
+            "name": "Watermelon",
+            "price": 20,
+            "image": "watermelon.jpg",
+            "description": " 2 kg of fresh watermelon, a must-have in summer"
+        },
+
+        {
+            "id": 5,
+            "name": "Blueberry",
+            "price": 10,
+            "image": "blueberry.jpg",
+            "description": "Fresh blueberry 50g, a treasure for replenishing the eyes"
+
+        },
+
+        {
+            "id": 6,
+            "name": "White Carrot",
+            "price": 5,
+            "image": "white-carrot.jpg",
+
+            "description": "1 kg of fresh white radish, suitable for soup"
+        }]
